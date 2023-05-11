@@ -7,6 +7,13 @@
 - 📫 Reach out: nicywi@gmail.com 
 
 
+ <b> </b>
+
+<b>*GitHub Stats*:</b> 
+  
+  <b> </b> 
+
+
 <!--
 **nicywi/nicywi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
