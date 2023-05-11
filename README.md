@@ -6,26 +6,6 @@
 - 👉🏻 Connect: https://www.linkedin.com/in/nikola-cywinska/
 - 📫 Reach out: nicywi@gmail.com 
 
-<b>*GitHub Stats*:</b> 
-  <p align="center">
-<table>
-<tr>
-  
-  <td>
-  <a href="https://github.com/nicywi">
-  <img align="center" src="https://github-readme-stats-nicywi.vercel.app/api?username=nicywi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Nikola's Github Stats" height="180rem" />
-  </a>
-  </td>
-    
-  <td> 
-<a href="https://github.com/nicywi"><img align="center" src="https://github-readme-stats-nicywi.vercel.app/api/top-langs/?username=nicywi&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
-  </td>
-    
-</tr>
-</table>
-</p>
-
-
 <!--
 **nicywi/nicywi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
