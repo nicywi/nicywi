@@ -11,4 +11,11 @@
 <a href="https://www.linkedin.com/in/nikola-cywinska"> <img src="https://www.svgrepo.com/show/438654/linkedin-square.svg" alt="linkedin" width="30" height="30"/> </a><a href="mailto:nicywi@gmail.com"><img src="https://www.svgrepo.com/show/439759/email-square-fill.svg" alt='mail' width="30" height="30"/></a>
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicywi)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicywi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+<div>
+<img src="https://raw.githubusercontent.com/nicywi/nicywi/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
