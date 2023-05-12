@@ -14,8 +14,10 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicywi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-<div>
-<img src="https://raw.githubusercontent.com/nicywi/nicywi/output/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
