@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-
+📲 👩‍💻 Aspiring Mobile Apps Developer
 🎓 Graduated Java at Software Development Academy in January 2024. This 300h course with professional trainers covers: Java Advanced, Software Testing, Practical Design, SQL Databases, Spring Framework. 
 
 <h4 align="left">Languages and Tools:</h4>
