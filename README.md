@@ -12,9 +12,9 @@
 <br><br>
 
 <a href="https://www.codewars.com/users/nicywi"> <img src="https://www.codewars.com/users/nicywi/badges/micro" alt="codewars" height="25"/> </a> 
-<div align="left">
+<!---<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicywi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+</div>--->
 
 <!---![Codewars](https://github.r2v.ch/codewars?user=nicywi)--->
 
