@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-👩‍💻 Java Developer </br>
+👩‍💻 Developer </br>
 🎓 Graduated Java at Software Development Academy in January 2024. This almost 400h course with professional trainers covers: Java Advanced, Software Testing, Practical Design, SQL Databases, Spring Framework. 
 <h4 align="left">Connect:</h4>
 <a href="https://www.linkedin.com/in/nikola-cywinska"> <img src="https://www.svgrepo.com/show/438654/linkedin-square.svg" alt="linkedin" width="30" height="30"/> </a><a href="mailto:nicywi@gmail.com"><img src="https://www.svgrepo.com/show/439759/email-square-fill.svg" alt='mail' width="30" height="30"/></a>
