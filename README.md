@@ -1,13 +1,15 @@
 ### Hi there 👋 
 
-👩‍💻 Software Developer </br>
+👩‍💻 Android Software Engineer </br>
 🎓 Graduated Java at Software Development Academy in January 2024. This almost 400h course with professional trainers covers: Java Advanced, Software Testing, Practical Design, SQL Databases, Spring Framework. 
 <h4 align="left">Connect:</h4>
 <a href="https://www.linkedin.com/in/nikola-cywinska"> <img src="https://www.svgrepo.com/show/438654/linkedin-square.svg" alt="linkedin" width="30" height="30"/> </a><a href="mailto:nicywi@gmail.com"><img src="https://www.svgrepo.com/show/439759/email-square-fill.svg" alt='mail' width="30" height="30"/></a>
 
 <h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/><a/>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/></a>
+<a href="https://developer.android.com/compose" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="30" height="30"/><a/>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="compose" width="30" height="30"/><a/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/><a/>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/></a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/></a> 
   <a href="https://www.thymeleaf.org" target="_blank" rel="noreferrer"> <img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="thymeleaf" width="30" height="30"/></a>
